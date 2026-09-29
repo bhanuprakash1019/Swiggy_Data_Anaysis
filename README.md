@@ -242,7 +242,7 @@ swiggy-excel-analysis/
 
 ## 👤 Author
 
-PADIGIREDDY BHANUPRKASH REDDY
+PADIGIREDDY BHANUPRaKASH REDDY
 
 📧 bhanuprakashreddy.p1019@gmail.com        🔗 [LinkedIn] https://www.linkedin.com/in/padigireddy-bhanuprakash-reddy-476a32275/?isSelfProfile=true 
 
